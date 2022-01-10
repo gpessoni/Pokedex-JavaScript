@@ -32,3 +32,24 @@ All the images are available in : https://cdn.traction.one/pokedex/pokemon/
 2. `npm run serve` to serve the production version of the site on a local test server.
 
 Production files are located in the `dist` directory.
+
+### Make the change
+
+1. Follow the "Running locally" instructions.
+2. Save the files and check results in the browser.
+
+Changes to React components in `/src` will hot-reload. If modifying the `/alerts.json` file or files in the `/src/docs/` directory, you will need to restart the dev server before changes will be visible.
+
+### Test the change
+
+If possible, test any visual changes in all latest versions of common browsers, on both desktop and mobile.
+
+### Push it
+
+1. `git add -A` to stage your changed files.
+2. `git commit -m "My message"` (replacing My message with a commit message, such as "Fix header logo on Android") to commit your changes. While not critically important, try to follow the guidelines in [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/#seven-rules).
+3. `git push my-fork-name branch-name` to push your changes to your own GitHub repository.
+4. Go to the pokeapi.co GitHub repo and you should see your recently pushed branches.
+5. Follow GitHub's instructions to submit a pull request.
+6. Describe the changes you made in the body of the PR. If possible, include screenshots of visual changes.
+
