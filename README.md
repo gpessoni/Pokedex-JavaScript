@@ -5,7 +5,7 @@
 ## For the images in this project I use a website called CDN. It was a website from content distribution in cloud
 ## All the images are available in : https://cdn.traction.one/pokedex/pokemon/
 <br>
-## THe Preview of website are  <a href="https://pokedex-teste1.000webhostapp.com/">  available here </a>
+## The Preview of website are  <a href="https://pokedex-teste1.000webhostapp.com/">  available here </a>
 
 ## To Getting Started with API
 
