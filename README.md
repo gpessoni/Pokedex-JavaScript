@@ -1,6 +1,13 @@
-# Pokedex.JS
+# Pokedex JS
+## This is a project is a Pokedex from Pokémon, made with pure JavaScript and uses a API called PokeAPI:
+ <img src="https://m.media-amazon.com/images/I/51p4hz-qMGL._AC_.jpg" alt="Pokedex">
 
-## Getting Started
+## For the images in this project I use a website called CDN. It was a website from content distribution in cloud
+## All the images are available in : https://cdn.traction.one/pokedex/pokemon/
+<br>
+## THe Preview of website are  <a href="https://pokedex-teste1.000webhostapp.com/">  available here </a>
+
+## To Getting Started with API
 
 ### Prerequisities
 
